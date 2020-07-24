@@ -4,10 +4,10 @@ Within this course I am going to create a website which will present a website w
 This website will be a personal resume and will contain information about what I would include for a my own resume.
 This README.md file will contain the information about the developement of the website over time.
 <br>
-## Index <hr>
+## Index
 I.   [Introduction](#introduction) <br>
-II.  [Initial idea](#example)
-<br>
+II.  [Initial idea](#begin-idea) <br>
+X.   [References](#reference) <br>
 <a name="introduction"></a>
 ## Introduction
 I am going to create a website that will encapsulate and present the idea of my choice. I am chosing to create a resume website.
@@ -22,5 +22,18 @@ These alternations would generally output seperate layouts and displays on diffe
 Whenever I create a webpage I focus on the functionality of the website and the navigation system that are inplace.
 Once the webpage and a navigation bar has been created I would then begin to set the information into a layout suitable for the purpose and functionality of the page.
 <br>
+<a name="begin-idea"></a>
 ## Initial idea
-I would like to create the beginning section of code using the Emmit
+I would like to create the beginning section of code using the Emmit function.
+Once thats created I will start by stating the initial declarations for where external style will be placed.
+I like to create the beginning page and spend time trying to find the style and layout that I am looking for.
+<br>
+
+Start by creating a navigation bar, I would like for the navigation bar to be able to be toggled open/closed using an icon.
+I would also like to be able to make sure that its easy to navigate between pages and be able to offer the same level of accessibility to any type of users.
+I would like to make sure that on a mobile or tablet version of the website the page is in full display and the navigation bar doesn't interfere with the user of the page.
+<br>
+<a name="reference"></a>
+## References
+This is a list of different websites that I used to help with the production of this webpage.
+//
