@@ -33,6 +33,21 @@ Start by creating a navigation bar, I would like for the navigation bar to be ab
 I would also like to be able to make sure that its easy to navigate between pages and be able to offer the same level of accessibility to any type of users.
 I would like to make sure that on a mobile or tablet version of the website the page is in full display and the navigation bar doesn't interfere with the user of the page.
 <br>
+
+I need to have suitable names for each of the different pages, I would like to make the website one who document, which has navigation links which would move the user down the page to the different sections of the page.
+Also I would like to make the navigation bar fixed at the top of the screen so that navigation tabs can be accessed thoughout the use of the webpage.
+<br>
+
+The different webpage can be named,
+<li>Home / Overview</li>
+<li>About Me</li>
+<li>Experience</li>
+<li>Education</li>
+<li>Contact</li>
+
+Any of the webpages that have been chosen may be altered later on in development so that I can make the webpage more functional.
+I apply a simple style at first so that it is easier to position and place the different links around the page, where I would like to place them.
+
 <a name="reference"></a>
 ## References
 This is a list of different websites that I used to help with the production of this webpage.
